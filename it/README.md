@@ -21,6 +21,10 @@ Un promemoria per essere sicuri, per il primo incontro e per quelli successivi, 
 Queste sono semplici  liste di cose da fare. Le ho sviluppate per fondare un CoderDojo a Rimini (Novembre 2014) e le ho raffinate per lanciare un altro CoderDojo a Pesaro (Gennaio 2015).
 Il "Gordon Model" è l'insieme di regole sviluppate per favorire lo sviluppo di una nuova generazione di programmatori.
 
+## Dove lo trovo
+
+L'archivio ufficiale di CoderDojoTools è [github.com/gordonway/coderDojoTools](http://github.com/gordonway/coderDojoToolsgithub.com/gordonway/coderDojoTools)
+
 ## Caveat
 
 Le checklist **non sostituiscono il tuo impegno di champion**, ma sono utili per sapere cosa c'&egrave; da fare, e quindi per distribuire i compiti fra i mentor.

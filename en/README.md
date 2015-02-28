@@ -31,6 +31,10 @@ When I set about launching a CoderDojo, I immediately searched for checklists or
  Gordon Way, founder of WayForward Technologies, in Douglas Adams's [The Long, Dark Teatime Of The Soul](http://www.amazon.com/Long-Dark-Tea-Time-Soul/dp/0671742515/). It's a long story.
 Gordon Way is also my programming alter ego.
 
+## How do I get it?
+
+The official coderDojoTools repo is at [github.com/gordonway/coderDojoTools](http://github.com/gordonway/coderDojoTools)
+
 ## Caveat
 
 Checklists do not substitute a champion's work, but they are useful to keep track of what needs to be done, and to distribue tasks across the team.
