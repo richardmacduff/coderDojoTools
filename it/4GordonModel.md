@@ -1,4 +1,4 @@
-# Il Gordon Model, o le regole del Dojo
+# Il MacDuff Model, o le regole del Dojo
 > CC-BY-SA [Walter Vannini](mailto:ipse@waltervannini.it), Champion CoderDojo [Pesaro | Rimini]
 
 ## Lavoriamo assieme

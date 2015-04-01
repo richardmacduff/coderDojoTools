@@ -3,7 +3,7 @@
 ___ 
 
 ## What is CDT?
-CoderDojoTools (CDT) is a set of checklists and the "Gordon Model" set of rules to help a champion create and run a Coder Dojo
+CoderDojoTools (CDT) is a set of checklists and the "MacDuff Model" set of rules to help a champion create and run a Coder Dojo
 
 ## Who Is CDT For?
 The CDT is meant for the champion, of a Coder Dojo about to launch or already established. The CDT is meant to be the foundation of the dojo's standard operating procedures.
@@ -26,10 +26,14 @@ I like to know what needs to be done, and I hate when I overlook some detail or 
 
 When I set about launching a CoderDojo, I immediately searched for checklists or standard operating procedures, but found none. So I made my own. These are the checklists I have developed over the launch of two CoderDojos, Rimini and Pesaro, in January 2015.
 
-## Who's Gordon, anyway?
+## Who's MacDuff, anyway?
 
- Gordon Way, founder of WayForward Technologies, in Douglas Adams's [The Long, Dark Teatime Of The Soul](http://www.amazon.com/Long-Dark-Tea-Time-Soul/dp/0671742515/). It's a long story.
-Gordon Way is also my programming alter ego.
+Richard MacDuff, programmer and visionary at WayForward Technologies, in Douglas Adams's [The Long, Dark Teatime Of The Soul](http://www.amazon.com/Long-Dark-Tea-Time-Soul/dp/0671742515/). It's a long story.
+Richard is also my programming alter ego.
+
+## How do I get it?
+
+The official coderDojoTools repo is at [github.com/richardmacduff/coderDojoTools](http://github.com/richardmacduff/coderDojoTools)
 
 ## Caveat
 

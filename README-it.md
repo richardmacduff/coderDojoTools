@@ -4,7 +4,7 @@ ___
 
 ## Che cos'&egrave;
 
-Una raccolta di checklist utili e le regole del "Gordon Model" per aiutare il champion nella creazione e conduzione di un CoderDojo.
+Una raccolta di checklist utili e le regole del "MacDuff Model" per aiutare il champion nella creazione e conduzione di un CoderDojo.
 
 ## A chi si rivolge
 Al champion di un coderdojo, nascente o nato, come base per le procedure standard di gestione delle attivit&agrave;.
@@ -19,11 +19,11 @@ Un promemoria per essere sicuri, per il primo incontro e per quelli successivi, 
 ## Come nasce
 
 Queste sono semplici  liste di cose da fare. Le ho sviluppate per fondare un CoderDojo a Rimini (Novembre 2014) e le ho raffinate per lanciare un altro CoderDojo a Pesaro (Gennaio 2015).
-Il "Gordon Model" è l'insieme di regole sviluppate per favorire lo sviluppo di una nuova generazione di programmatori.
+Il "MacDuff Model" è l'insieme di regole sviluppate per favorire lo sviluppo di una nuova generazione di programmatori.
 
 ## Dove lo trovo
 
-L'archivio ufficiale di CoderDojoTools è [github.com/gordonway/coderDojoTools](http://github.com/gordonway/coderDojoToolsgithub.com/gordonway/coderDojoTools)
+L'archivio ufficiale di CoderDojoTools è [github.com/richardmacduff/coderDojoTools](http://github.com/richardmacduff/coderDojoTools)
 
 ## Caveat
 
