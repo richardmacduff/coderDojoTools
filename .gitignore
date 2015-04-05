@@ -1,0 +1,2 @@
+# ignore PDF output from markdown compiles
+*.pdf
