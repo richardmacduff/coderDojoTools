@@ -28,7 +28,7 @@ When I set about launching a CoderDojo, I immediately searched for checklists or
 
 ## Who's MacDuff, anyway?
 
-Richard MacDuff, programmer and visionary at WayForward Technologies, in Douglas Adams' [Dirk Gently's Holistic Detective Agency(http://www.amazon.co.uk/Gentlys-Holistic-Detective-Agency-Gently/dp/1447221095/). It's a long story.
+Richard MacDuff, programmer and visionary at WayForward Technologies, in Douglas Adams' [Dirk Gently's Holistic Detective Agency](http://www.amazon.co.uk/Gentlys-Holistic-Detective-Agency-Gently/dp/1447221095/). It's a long story.
 Richard is also my programming alter ego.
 
 ## How do I get it?
