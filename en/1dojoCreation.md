@@ -13,7 +13,7 @@
 * Find a domain name (e.g. coderdojogeekville.org)
 * Buy said domain name
 * Buy suitable hosting
-* Create a mail account for your CoderDojo (e.g. : `geekvilleCoderdojo@gmail.com`)
+* Create a mail account for your CoderDojo (e.g. : `contact@coderdojogeekville.org`)
 * Create a blog on the domain
 * Create a Facebook page
 * Create a twitter account
